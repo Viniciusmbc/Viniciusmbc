@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinicius Menna Barreto Cáceres!
-- 🌱 I’m currently graduating in Internet Systems at SENAC (EAD).
+- 🌱 I’m currently graduating in software engineering at UNINTER (EAD).
 - 👨‍🎓 I have a degree in Law.
 - 🔗  My linkedin URL www.linkedin.com/in/vinicius-menna-barreto-caceres.
 
